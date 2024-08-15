@@ -17,7 +17,7 @@ int binarysearch(int array[], int left, int right, int x)
             else
             right = mid - 1;
     }
-    return 0;
+    return -1;
 }
 
 int main()
@@ -30,7 +30,7 @@ int main()
     
     int result = binarysearch(array, left, right, x);
     
-    (result != 0) ? cout<<"the number "<<x<<" is fount at index; "<<result<<endl : cout<<"Element not found";
+    (result != -1) ? cout<<"the number "<<x<<" is fount at index; "<<result<<endl : cout<<"Element not found";
     
     return 0;
 }
