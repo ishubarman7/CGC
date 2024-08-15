@@ -27,7 +27,6 @@ int main()
     int left = 0;
     int n = sizeof(array) / sizeof(array[0]);
     int right = n - 1;
-    
     int result = binarysearch(array, left, right, x);
     
     (result != -1) ? cout<<"the number "<<x<<" is fount at index; "<<result<<endl : cout<<"Element not found";
