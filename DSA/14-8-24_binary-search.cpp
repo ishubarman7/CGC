@@ -13,6 +13,7 @@ int binarysearch(int array[], int left, int right, int x)
             
             else if(array[mid] < x)
             left = mid + 1;
+            
             else
             right = mid - 1;
     }
