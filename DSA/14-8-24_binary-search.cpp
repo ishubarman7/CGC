@@ -23,10 +23,10 @@ int main()
 {
     int array[] = {2,5,8,9,10,18,19,21,25,26,29};
     int x = 9;
-    int left = 0;
     int n = sizeof(array) / sizeof(array[0]);
+    int left = 0;
     int right = n - 1;
-    
+
     int result = binarysearch(array, left, right, x);
     
     (result != -1) ? cout<<"the number "<<x<<" is fount at index; "<<result<<endl : cout<<"Element not found";
