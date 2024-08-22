@@ -5,8 +5,6 @@ class add
     public:
     int a,b,c;
 
-    
-    
     void addition()
     {
     c = a + b;
