@@ -1,6 +1,4 @@
 #include de<iostream>
-using namespace st
-
-
+using namespac
 
 
