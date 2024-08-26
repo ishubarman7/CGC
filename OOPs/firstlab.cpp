@@ -16,9 +16,6 @@ class add
     }
 };
 
-
-
-
 int main()
 {
     add A;
