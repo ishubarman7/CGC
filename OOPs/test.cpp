@@ -16,14 +16,17 @@ int main()
     else if(a==first&c==second)
     cout<<b;
 
-    // else if(b==first&a==second)
-    // cout<<c;
 
-    // else if(c==first&b==second)
-    // cout<<a;
 
-    // else if(c==first&a==second)
-    // cout<<b;
+
+    else if(b==first&a==second)
+    cout<<c;
+
+    else if(c==first&b==second)
+    cout<<a;
+
+    else if(c==first&a==second)
+    cout<<b;
 
 
     return 0;
