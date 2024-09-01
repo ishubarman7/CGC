@@ -17,8 +17,6 @@ int main()
     cout<<b;
 
 
-
-
     else if(b==first&a==second)
     cout<<c;
 
