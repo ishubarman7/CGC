@@ -25,6 +25,8 @@ int binarysearch(int array[], int left, int right, int x)
 
 
 
+
+
 int main()
 {
     int array[] = {2,5,8,9,10,18,19,21,25,26,29};
