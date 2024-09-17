@@ -20,8 +20,6 @@ void outside::sum()
     s = x + y;
 }
 
-
-
 void outside::show()
 {
     std::cout<<"The sum of x and y is: "<<s;
