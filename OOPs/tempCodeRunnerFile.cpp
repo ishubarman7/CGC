@@ -6,3 +6,9 @@
 
     else if(c==first&a==second)
     cout<<b;
+
+
+
+
+
+
