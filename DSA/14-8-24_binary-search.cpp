@@ -33,6 +33,7 @@ int main()
 
     int result = binarysearch(array, left, right, x);
     
+    
     (result != -1) ? cout<<"the number "<<x<<" is fount at index; "<<result<<endl : cout<<"Element not found";
     
     return 0;
