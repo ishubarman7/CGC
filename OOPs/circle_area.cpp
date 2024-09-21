@@ -14,7 +14,6 @@ class abc
         cout<<"Area of the Circle is: "<<area<<endl;
     }
 };
-
 int main()
 {
     abc A;
@@ -24,7 +23,5 @@ int main()
 
     A.calculation();
     return 0;
-
-
 
 }

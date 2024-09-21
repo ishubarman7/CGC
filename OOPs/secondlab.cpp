@@ -15,12 +15,13 @@ void outside::get()
     std::cin>> x >> y;
 }
 
+
+
+
 void outside::sum()
 {
     s = x + y;
 }
-
-
 
 void outside::show()
 {
@@ -35,13 +36,4 @@ int main()
     P.show();
     return 0;
 }
-
-
-
-
-
-
-
-
-
 
