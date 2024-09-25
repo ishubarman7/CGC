@@ -15,9 +15,6 @@ void outside::get()
     std::cin>> x >> y;
 }
 
-
-
-
 void outside::sum()
 {
     s = x + y;
