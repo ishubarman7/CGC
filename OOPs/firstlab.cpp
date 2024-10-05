@@ -24,6 +24,6 @@ int main()
     A.sum();
     return 0;
 }
-riufhei
+r
 iughuwghuetgh
 eryugewyueruofbgergv
