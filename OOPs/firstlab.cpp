@@ -25,7 +25,7 @@ int main()
     return 0;
 }
 
-wefyue
+wef
 riufheiureugh
 iughuwghuetgh
 eryugewyueruofbgergv
