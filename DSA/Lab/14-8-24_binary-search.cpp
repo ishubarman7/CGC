@@ -20,6 +20,8 @@ int binarysearch(int array[], int left, int right, int x)
     return -1;
     
 
+    
+
 }
 
 int main()
