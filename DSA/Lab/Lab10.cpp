@@ -1,5 +1,10 @@
 
-//Lab.10 :- Write a menu driven program to perform following Deletion operations in a single linked list:
+//Lab.10 :-    Write a menu driven program to perform following insertion operations in a single linked list:
+//                i.	Insertion atbeginning
+//                ii.	Insertion atend
+//                iii.	Insertion after a givennode
+//                iv.	Traversing a linkedlist
+
 
 #include<iostream>
 using namespace std;
