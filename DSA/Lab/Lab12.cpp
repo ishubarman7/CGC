@@ -1,5 +1,9 @@
 
-// Write a menu driven program to perform following Deletion operations in a single 
+//Lab12:-   Write a menu driven program to perform following deletion operations in a single linked list:
+//           i.	Deletion atbeginning
+//           ii. Deletion atend
+//           iii. Deletion after a givennode
+
 
 #include<iostream>
 using namespace std;
