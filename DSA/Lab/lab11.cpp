@@ -1,3 +1,6 @@
+
+// Write a program to implement push and pop operations on a stack using linked list
+
 #include <bits/stdc++.h>
 using namespace std;
 
