@@ -12,7 +12,7 @@ private:
     node* tail;
 
 public:
-    // Constructor
+    // Constructorgit
     list() {
         head = NULL;
         tail = NULL;
@@ -146,3 +146,10 @@ int main() {
 
     return 0;
 }
+
+
+
+
+
+
+
