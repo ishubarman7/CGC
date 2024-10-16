@@ -97,3 +97,14 @@ int main() {
 
     return 0;
 }
+
+
+
+
+
+/*OUTPUT
+
+Stack elements after PUSH operation: 66 55 44 33 22 11
+Stack elements after POP operation: 44 33 22 11
+
+*/

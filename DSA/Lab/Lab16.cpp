@@ -45,3 +45,12 @@ int main() {
 
     return 0;
 }
+
+
+/* OUTPUT
+Enter Array Size: 10
+Enter Array Elements: 1 5 4 2 6 3 7 8 9 10
+Sorting array using selection sort...
+Now the Array after sorting is: 
+1 2 3 4 5 6 7 8 9 10 
+*/

@@ -158,3 +158,18 @@ int main() {
 
 
 
+/*OUTPUT
+
+------------Displaying All Nodes------------
+25      50      90      40      60      70      30      80      10
+
+-----------Deleting First Node------------
+50      90      40      60      70      30      80      10
+
+-----------Deleting Last Node------------
+50      90      40      60      70      30      80
+
+--------Deleting Node at Position 4--------
+50      90      40      70      30      80
+
+*/
