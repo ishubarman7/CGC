@@ -94,3 +94,21 @@ int main() {
 
 	return 0;
 }
+
+
+
+/*OUTPUT
+
+ ---------------Traversing Linked List
+25      50      90      40
+
+ -----------------Inserting At End
+25      50      90      40      55
+
+ ----------------Inserting At Start
+50      25      50      90      40      55
+
+ -------------Inserting At Particular Position
+50      25      50      90      60      40      55
+
+*/
