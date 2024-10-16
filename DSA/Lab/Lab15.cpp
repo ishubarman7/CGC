@@ -1,3 +1,6 @@
+
+// Program to sort an array of integers in ascending order using bubble sort.
+
 #include <iostream>
 using namespace std;
 
