@@ -59,7 +59,6 @@ int main()
 
 
 
-
 /*OUTPUT
 Enter the element to insert at the end: 20
 Array after inserting at the end: 1 2 3 4 5 20
