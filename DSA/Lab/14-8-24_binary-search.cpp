@@ -18,9 +18,7 @@ int binarysearch(int array[], int left, int right, int x)
             right = mid - 1;
     }
     return -1;
-    
 
-    
 
 }
 
