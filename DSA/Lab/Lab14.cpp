@@ -88,8 +88,6 @@ int main() {
 
     return 0;  // End of the program
 }
-
-
 /*OUTPUT
 
 Preorder traversal of binary tree is
