@@ -26,7 +26,6 @@ int main()
             break;
         }
     }
-
     // Display the array after deletion by value
     cout << "Array after deleting value: ";
     for (int i = 0; i < n; i++)
