@@ -24,7 +24,6 @@ public:
         head = NULL;
         tail = NULL;
     }
-
     // Function to create a node and insert it at the end of the list
     void createnode(int value) {
         node* temp = new node;  // Allocate memory for a new node
@@ -153,7 +152,6 @@ int main() {
 
     return 0;
 }
-
 
 /*OUTPUT
 
