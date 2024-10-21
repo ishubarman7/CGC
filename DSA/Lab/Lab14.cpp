@@ -97,4 +97,6 @@ Inorder traversal of binary tree is
 Postorder traversal of binary tree is
 4 5 2 3 1
 
+
+
 */
