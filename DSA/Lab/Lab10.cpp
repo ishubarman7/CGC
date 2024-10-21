@@ -22,7 +22,6 @@ public:
 		head = NULL;
 		tail = NULL;
 	}
-
 	void createnode(int value) {
 		node *temp = new node;
 		temp->data = value;
@@ -94,8 +93,6 @@ int main() {
 
 	return 0;
 }
-
-
 
 /*OUTPUT
 
