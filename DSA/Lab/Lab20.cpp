@@ -42,9 +42,7 @@ void DFS(int i) {
     }
 }
 
-
-
-
+ 
 
 /* output 
 Enter number of vertices: 8
