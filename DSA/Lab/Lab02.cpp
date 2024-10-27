@@ -67,6 +67,3 @@ int main()
 /*OUTPUT
 
 */
-
-
-
