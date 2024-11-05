@@ -82,7 +82,3 @@ After Quick Sort, the array is:
 
 
 
-
-
-
-
