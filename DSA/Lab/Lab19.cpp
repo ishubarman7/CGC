@@ -100,5 +100,3 @@ Following are connected components:
 
 
 
-
-
