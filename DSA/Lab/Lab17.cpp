@@ -49,6 +49,3 @@ Array after sorting:
 */
 
 
-
-
-
