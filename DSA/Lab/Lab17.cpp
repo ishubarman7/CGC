@@ -40,8 +40,6 @@ int main() {
     return 0;
 }
 
-
-
 /* OUTPUT
 Enter Array Size: 10
 Enter Array Elements: 1 4 5 2 7 8 6 3 9 10
