@@ -46,7 +46,6 @@ void DFS(int i) {
 
 /* output 
 Enter number of vertices: 8
-
 Enter adjacency matrix of the graph:
 0 1 1 1 1 0 0 0 
 1 0 0 0 0 1 0 0 
