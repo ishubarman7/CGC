@@ -74,8 +74,6 @@ int main() {
 
 
 
-
-
 /*OUTPUT
 Enter number of elements: 10
 Enter the array elements:
