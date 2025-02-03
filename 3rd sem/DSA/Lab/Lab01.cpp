@@ -24,6 +24,8 @@ int main()
     }
     cout << endl;
 
+    
+
     // Insert element at a specific position
     cout << "Enter the position to insert the element (0 to " << n << "): ";
     cin >> position;
