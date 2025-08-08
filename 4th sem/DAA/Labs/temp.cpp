@@ -18,3 +18,9 @@ void revWordsString(string str) {
 
 
 
+int main() {
+    string str;
+    getline(cin, str);
+    revWordsString(str);
+    return 0;
+}
